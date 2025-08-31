@@ -33,8 +33,7 @@ The mobile application was built with **Flutter** and uses the `tflite_flutter` 
 
 ### Screenshots
 
-![App Screenshot 1](Project_Report/screenshot.png) 
-*(Include a screenshot of your app here. It's very effective!)*
+![App Screenshot 1](https://github.com/izaanz/Edge_AI_APP/blob/main/image/image2.png) 
 
 ## How to Run the Flutter App
 
