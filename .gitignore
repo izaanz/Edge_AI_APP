@@ -1,0 +1,94 @@
+# ===================================================================
+# General & OS Specific Files
+# ===================================================================
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# ===================================================================
+# IDE and Editor Configuration Files
+# ===================================================================
+
+# VS Code
+.vscode/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# ===================================================================
+# Python & Jupyter Notebook Artifacts
+# ===================================================================
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+virtualenv/
+*.venv
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ===================================================================
+# Flutter Project Files (very important)
+# ===================================================================
+# This section is based on the default Flutter .gitignore and is crucial
+# for keeping the repository clean and small.
+
+# Flutter build artifacts
+/Flutter_App/build/
+/Flutter_App/.dart_tool/
+/Flutter_App/.idea/
+/Flutter_App/.flutter-plugins
+/Flutter_App/.flutter-plugins-dependencies
+
+# Flutter packages
+/Flutter_App/.packages
+/Flutter_App/.pub/
+
+# iOS build artifacts (within Flutter_App)
+/Flutter_App/ios/Pods/
+/Flutter_App/ios/Flutter/App.framework
+/Flutter_App/ios/Flutter/engine
+/Flutter_App/ios/Flutter/flutter_assets
+/Flutter_App/ios/.symlinks/
+/Flutter_App/ios/Runner.xcworkspace
+/Flutter_App/ios/Runner/GeneratedPluginRegistrant.*
+/Flutter_App/ios/Flutter/Debug.xcconfig
+/Flutter_App/ios/Flutter/Release.xcconfig
+
+# Android build artifacts (within Flutter_App)
+/Flutter_App/android/.gradle/
+/Flutter_App/android/local.properties
+/Flutter_App/android/app/src/main/assets/flutter_assets/
+/Flutter_App/android/app/build/
+/Flutter_App/android/key.properties
+/Flutter_App/android/.idea/
+
+# Web build artifacts
+/Flutter_App/web/
+
+# Sensitive files
+*.jks
+*.keystore
+
+# Log files
+*.log
