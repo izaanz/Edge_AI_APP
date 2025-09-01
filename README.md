@@ -39,11 +39,11 @@ The mobile application was built with **Flutter** and uses the `tflite_flutter` 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/izaanz/Edge-AI-Recognition-App.git
+    git clone https://github.com/izaanz/Edge_AI_APP.git
     ```
 2.  **Navigate to the app directory:**
     ```bash
-    cd Edge-AI-Recognition-App/Flutter_App
+    cd Edge_AI_APP/Flutter_App
     ```
 3.  **Install dependencies:**
     ```bash
